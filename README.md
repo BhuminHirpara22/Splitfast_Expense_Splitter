@@ -5,7 +5,7 @@ SplitFast is a web application that helps users manage shared expenses within gr
 
 ## Repository Structure
 ```
-Lambda_task_splitfast/
+SplitFast_Expense_Splitter/
 ├── server/
 │   ├── models/
 │   │   └── GroupModel.js
@@ -46,8 +46,8 @@ Lambda_task_splitfast/
 ## Setting Up the Development Environment
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/BhuminHirpara22/Lambda_task_splitfast.git
-   cd Lambda_task_splitfast
+   git clone https://github.com/BhuminHirpara22/Splitfast_Expense_Splitter.git
+   cd Splitfast_Expense_Splitter
    ```
 
 2. **Install Dependencies**
